@@ -1,2 +1,2 @@
 # cs280
-towerofhanoi
+tower of hanoi
